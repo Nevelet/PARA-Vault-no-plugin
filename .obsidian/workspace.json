@@ -11,10 +11,14 @@
             "id": "33095b76cbb7c19a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -160,6 +164,7 @@
   },
   "active": "33095b76cbb7c19a",
   "lastOpenFiles": [
+    "0. Inbox/Untitled.md",
     "README.md",
     "_HOME.canvas",
     "_HOME.md",
@@ -186,7 +191,6 @@
     "3. Resources/Templates/MISC - Date.md",
     "3. Resources/Sources/Video/Video 3.md",
     "3. Resources/Sources/Video/Video 2.md",
-    "3. Resources/Sources/Video/Video 1.md",
     "2. Areas/Journal/Yearly",
     "2. Areas/Journal/Monthly",
     "3. Resources/General Notes",
