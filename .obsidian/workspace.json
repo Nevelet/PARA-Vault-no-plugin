@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "a8d696d4d357575e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bdb0a20dbf43fb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33095b76cbb7c19a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d57598be2bb37c52",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0b0c0b8a6138808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "735226d8a5a440d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "85f415a99947a140",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9189616197de2f9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5019836425781
+  },
+  "right": {
+    "id": "860e3e12398be00f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d45e4b4cbb16a2e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ef4047fda8452bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_HOME.canvas",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for _HOME"
+            }
+          },
+          {
+            "id": "339ffee295f123a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "6843e72a9ec4ed09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d53a3b565fe62925",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "33095b76cbb7c19a",
+  "lastOpenFiles": [
+    "README.md",
+    "_HOME.canvas",
+    "_HOME.md",
+    "4. Archived/Projects Completed/Progetto Z.md",
+    "4. Archived/Projects Completed/Progetto AB.md",
+    "3. Resources/Templates/Property - Note.md",
+    "3. Resources/Templates/Page - Topic.md",
+    "3. Resources/Templates/Page - Source Video.md",
+    "3. Resources/Templates/Page - Source Movie (Serie Tv).md",
+    "3. Resources/Templates/Page - Source Movie (Film).md",
+    "3. Resources/Templates/Page - Source Book.md",
+    "3. Resources/Templates/Page - Source Article.md",
+    "3. Resources/Templates/Page - Project.md",
+    "3. Resources/Templates/Page - People.md",
+    "3. Resources/Templates/Page - Note General.md",
+    "3. Resources/Templates/Page - Note Area.md",
+    "3. Resources/Templates/Page - Journal Yearly.md",
+    "3. Resources/Templates/Page - Journal Weekly.md",
+    "3. Resources/Templates/Page - Journal Monthly.md",
+    "3. Resources/Templates/Page - Journal Daily.md",
+    "3. Resources/Templates/Page - Goals.md",
+    "3. Resources/Templates/Page - Empty.md",
+    "3. Resources/Templates/Page - Areas.md",
+    "3. Resources/Templates/MISC - Date.md",
+    "3. Resources/Sources/Video/Video 3.md",
+    "3. Resources/Sources/Video/Video 2.md",
+    "3. Resources/Sources/Video/Video 1.md",
+    "2. Areas/Journal/Yearly",
+    "2. Areas/Journal/Monthly",
+    "3. Resources/General Notes",
+    "3. Resources/Attachments/no cover image.png",
+    "3. Resources/Attachments/goal.png",
+    "3. Resources/Attachments/book cover.png",
+    "2. Areas/Goals",
+    "2. Areas/Journal/Weekly",
+    "3. Resources/Topics",
+    "4. Archived/Projects Future",
+    "4. Archived/Projects Waiting",
+    "4. Archived/Projects Completed",
+    "3. Resources/Dashboard",
+    "3. Resources/Templates/Canvas - Weekly Planner.canvas"
+  ]
+}

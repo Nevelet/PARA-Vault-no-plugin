@@ -1,0 +1,11 @@
+
+.markdown-preview-view ul > li.task-list-item.is-checked, .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"], .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="X"] {
+    /* text-decoration: var(--checklist-done-decoration); */
+	text-decoration: line-through;
+    text-decoration-line: ;
+    text-decoration-thickness: ;
+    text-decoration-style: ;
+    text-decoration-color: ;
+    color: var(--checklist-done-color);
+	opacity: 40%;
+}

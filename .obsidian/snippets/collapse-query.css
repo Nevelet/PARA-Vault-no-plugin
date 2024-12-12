@@ -1,0 +1,19 @@
+
+/*Hide embedded search result previews. 
+
+.internal-query .search-result-file-matches, .internal-query .internal-query-header-title, .internal-query .internal-query-header  {
+	display: none;
+}
+
+*/
+
+/*Hide embedded search result previews CSSCLASSES. */
+
+.query .internal-query .search-result-file-matches, .internal-query .internal-query-header-title, .internal-query .internal-query-header {
+	display: none;
+}
+
+
+
+
+
