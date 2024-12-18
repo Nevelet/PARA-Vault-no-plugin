@@ -7,6 +7,7 @@ cssclasses:
 Links:: [[Dashboard]]
 
 ---
+_Le note vengono gestite seguendo [[Status Notes|questi stati]]_
 
 ## Inbox
 

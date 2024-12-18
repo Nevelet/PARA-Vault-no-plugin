@@ -7,6 +7,7 @@ cssclasses:
 Links:: [[_HOME]], [[Dashboard]]
 
 ---
+_Le note vengono gestite seguendo [[Status Notes|questi stati]]_
 
 ## ▶ Active
 

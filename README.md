@@ -7,10 +7,13 @@ Qui trovate il mio [canale YouTube](https://www.youtube.com/@GiambattistaCiancio
 > **Questa è una versione semplificata del mio attuale Vault, dove c'è più roba: plugin, CSS e molto altro. Se vuoi provarlo, puoi scaricarlo gratuitamente [qui](https://github.com/Nevelet/PARA-Vault/releases)** 
 > 
 > 
-> Per la struttura delle cartelle, mi sono basato sul Metodo PARA di Tiago Forte. Per maggiori informazioni, potete guardare [questo mio video](https://youtu.be/UhWRNcEvS9M?si=UukActXtE2W64oFC) 
+> Per la **struttura delle cartelle**, mi sono basato sul Metodo PARA di Tiago Forte. Per maggiori informazioni, potete guardare [questo mio video](https://youtu.be/UhWRNcEvS9M?si=UukActXtE2W64oFC) 
 > 
-> Per il tema invece ho usato AnuPpuccin. Se usi il Style Settings è possibile personalizzarlo ai massimi livelli.
+> Per sapere invece come uso uso i tag e i link, puoi visitare [[Come uso i Tag e i Link su Obsidian|questa nota]]
 > 
+> Per il **tema** invece ho usato AnuPpuccin. Se usi il Style Settings è possibile personalizzarlo ai massimi livelli.
+> 
+> Ho aggiunto diversi **tasti rapidi**, che puoi consultare [[Tasti Rapidi Personalizzati di Obsidian|qui]]
 
 > [!Tip]
 > Spero che questo questo Vault possa essere di vostro gradimento. Spero possa aiutarvi ad essere più produttivi e a gestire al meglio le varie informazioni. Se cosi fosse, puoi supportarmi gratuitamente lasciando un iscrizione a questo [canale YouTube](https://www.youtube.com/@GiambattistaCiancio) 
