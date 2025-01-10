@@ -1,7 +1,7 @@
 ---
 cssclasses:
-  - wide
   - cards
+  - wide
   - query
 tags:
   - dashboard

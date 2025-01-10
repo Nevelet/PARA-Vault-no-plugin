@@ -18,7 +18,6 @@ image:
 streamingServices: 
 seasonWatch: 
 episodeWatch: 
-topics:
 ---
 Links:: [[My Movies]]
 

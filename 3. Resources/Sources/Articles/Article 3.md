@@ -5,9 +5,7 @@ author:
 tags:
   - source/article
 status: Write
-note: 
-topics:
-  - "[[Tech]]"
+note:
 ---
 Links:: [[My Sources]]
 

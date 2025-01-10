@@ -1,6 +1,12 @@
 ---
 tags:
   - note
-topics:
 ---
+Links:: 
+
+---
+
+## 📝 Notes
+
+
 [[; Area 1]]

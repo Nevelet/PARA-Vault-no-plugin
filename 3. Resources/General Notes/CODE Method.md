@@ -3,7 +3,6 @@ created: 2024-12-17
 tags:
   - note
 status: Write
-topics: []
 ---
 Links:: 
 

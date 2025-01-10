@@ -11,9 +11,7 @@ pages:
 pages-read: 
 image: 
 onlineRating: 
-personalRating: 
-topics:
-  - "[[Produttività]]"
+personalRating:
 ---
 Links:: [[My Books]]
 

@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_HOME.canvas",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _HOME"
+              "title": "Riferimenti a README"
             }
           },
           {
@@ -133,7 +133,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etichette"
             }
           },
           {
@@ -148,7 +148,8 @@
               "title": "Outline of Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,38 +168,37 @@
   },
   "active": "83d8b1234ab4498b",
   "lastOpenFiles": [
-    "3. Resources/Obsidian/Come uso i Tag e i Link su Obsidian.md",
-    "README.md",
-    "3. Resources/Dashboard/My Books.md",
-    "3. Resources/Obsidian/Status Notes.md",
-    "3. Resources/Dashboard/My Movies.md",
-    "3. Resources/Dashboard/My Topics.md",
-    "3. Resources/Dashboard/My Sources.md",
-    "3. Resources/Dashboard/My Projects.md",
-    "3. Resources/Dashboard/My Notes.md",
-    "3. Resources/General Notes/CODE Method.md",
-    "3. Resources/Obsidian/Tasti Rapidi Personalizzati di Obsidian.md",
-    "3. Resources/Obsidian",
-    "1. Projects/Progetto XY.md",
-    "1. Projects/Progetto XA.md",
-    "1. Projects/Progetto X.md",
-    "2. Areas/Area note 2.md",
-    "2. Areas/; Area 1.md",
-    "2. Areas/Journal/Daily/2024-12-12.md",
-    "0. Inbox/Untitled.md",
     "_HOME.canvas",
     "_HOME.md",
     "4. Archived/Projects Completed/Progetto Z.md",
     "4. Archived/Projects Completed/Progetto AB.md",
+    "3. Resources/Topics/Produttività.md",
     "3. Resources/Templates/Property - Note.md",
     "3. Resources/Templates/Page - Topic.md",
     "3. Resources/Templates/Page - Source Video.md",
     "3. Resources/Templates/Page - Source Movie (Serie Tv).md",
     "3. Resources/Templates/Page - Source Movie (Film).md",
+    "3. Resources/Templates/Page - Source Book.md",
+    "3. Resources/Templates/Page - Source Article.md",
+    "3. Resources/Templates/Page - Project.md",
+    "3. Resources/Templates/Page - People.md",
+    "3. Resources/Templates/Page - Note General.md",
+    "3. Resources/Templates/Page - Note Area.md",
+    "3. Resources/Templates/Page - Journal Yearly.md",
+    "3. Resources/Templates/Page - Journal Weekly.md",
+    "3. Resources/Templates/Page - Journal Monthly.md",
+    "3. Resources/Templates/Page - Journal Daily.md",
+    "3. Resources/Templates/Page - Goals.md",
+    "3. Resources/Templates/Page - Empty.md",
+    "3. Resources/Templates/Page - Areas.md",
+    "3. Resources/Templates/MISC - Date.md",
+    "3. Resources/Templates/Heading - References.md",
+    "3. Resources/Templates/Heading - Notes.md",
+    "3. Resources/Attachments/no cover image.png",
+    "3. Resources/Obsidian",
     "2. Areas/Journal/Yearly",
     "2. Areas/Journal/Monthly",
     "3. Resources/General Notes",
-    "3. Resources/Attachments/no cover image.png",
     "3. Resources/Attachments/goal.png",
     "3. Resources/Attachments/book cover.png",
     "2. Areas/Goals",

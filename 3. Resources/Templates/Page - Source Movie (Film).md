@@ -16,7 +16,6 @@ actors:
 image: 
 streamingServices: 
 personalRating: 
-topics:
 ---
 Links:: [[My Movies]]
 

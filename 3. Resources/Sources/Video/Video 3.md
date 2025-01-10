@@ -5,8 +5,6 @@ author:
 tags:
   - source/video
 status: Write
-topics:
-  - "[[Obsidian]]"
 ---
 Links:: [[My Sources]]
 

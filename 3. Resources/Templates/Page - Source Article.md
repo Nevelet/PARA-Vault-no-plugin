@@ -6,7 +6,6 @@ tags:
   - source/article
 status: Write
 note: 
-topics:
 ---
 Links:: [[My Sources]]
 

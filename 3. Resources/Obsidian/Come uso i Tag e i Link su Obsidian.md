@@ -2,8 +2,6 @@
 created: 2024-12-18
 tags:
   - note
-topics:
-  - Obsidian
 ---
 Links:: [[Obsidian]]
 

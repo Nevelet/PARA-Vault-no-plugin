@@ -7,8 +7,6 @@ tags:
   - source/article
 status: Write
 note: Questo articolo è davvero interessante. Devo ancora leggerlo tutto.
-topics:
-  - "[[Finanza]]"
 ---
 Links:: [[My Sources]]
 

@@ -12,7 +12,6 @@ pages-read:
 image: 
 onlineRating: 
 personalRating: 
-topics:
 ---
 Links:: [[My Books]]
 

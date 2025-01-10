@@ -5,7 +5,7 @@ tags:
 
 ## 🎯 Goals
 
-![[Monthly Review {{date:YYYY-MM}}#Monthly Goals]]
+![[Monthly Review 2024-12#Monthly Goals]]
 
 ### Weekly Goals
 
@@ -70,8 +70,6 @@ Quali sono gli impegni più importanti di questa settimana?
 | --------- | --- | --- | --- | --- | --- | --- | --- |
 | Esercizio |     |     |     |     |     |     |     |
 | Lettura   |     |     |     |     |     |     |     |
-
-## ⌚ Log
 
 | Log        | Lun | Mar | Mer | Gio | Ven | Sab | Dom |
 | ---------- | --- | --- | --- | --- | --- | --- | --- |
